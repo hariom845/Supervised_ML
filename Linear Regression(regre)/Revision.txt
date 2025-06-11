@@ -1,0 +1,3 @@
+Revise only 
+1. simple, multi leaning (not need of project)
+2. ridge, lasso, elsticnet ( ek hi file hai)
